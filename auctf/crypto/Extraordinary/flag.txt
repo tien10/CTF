@@ -1,0 +1,7 @@
+b'6\x1d\x0cT*\x12\x18V\x05\x13c1R\x07u#\x021Jq\x05\x02n\x03t%1\\\x04@V7P\\\x17aN'.hex()
+
+key: 361d0c542a121856051363315207752302314a7105026e037425315c04405637505c17614e
+
+cipher text: Who Lives 1n 4 P1n3ApP13 Und3r The S3
+
+auctf{n3v3R_r3Us3_y0uR_0Tp_872vc8972}
